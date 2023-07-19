@@ -1,0 +1,4 @@
+ru/netology/nmedia/application/NMediaApplication_ComponentTreeDeps.java
+ ru.netology.nmedia.application.NMediaApplication_ComponentTreeDeps
+dagger/hilt/internal/processedrootsentinel/codegen/_ru_netology_nmedia_application_NMediaApplication.java
+ dagger.hilt.internal.processedrootsentinel.codegen._ru_netology_nmedia_application_NMediaApplication
